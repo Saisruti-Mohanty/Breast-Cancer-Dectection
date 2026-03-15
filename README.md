@@ -18,4 +18,4 @@ Breast Cancer Wisconsin (Diagnostic) Dataset from Kaggle:
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-This dataset is used to predict whether breast cancer is benign or malignant using machine learning.
+This dataset is used to predict whether breast cancer is benign(NON CANCEROUS) or malignant(CANCER)using machine learning.
